@@ -1,10 +1,10 @@
-# Chat GPT Promt:
+# Chat GPT Prompt:
 
-## As an expert explain the differnces between EMS testing and Irradiation testing for automotive ECU's
+> As an expert explain the differnces between EMS testing and Irradiation testing for automotive ECU's
 
-# Chat GPT Asnwer:
+# Chat GPT Answer:
 
-## EMS testing and irradiation testing are both essential for evaluating the electromagnetic compatibility (EMC) of automotive Electronic Control Units (ECUs), but they serve different purposes and involve distinct methodologies:
+EMS testing and irradiation testing are both essential for evaluating the electromagnetic compatibility (EMC) of automotive Electronic Control Units (ECUs), but they serve different purposes and involve distinct methodologies:
 
 1. **EMS Testing (Electromagnetic Susceptibility Testing)**:
    - **Purpose**: EMS testing assesses how well an ECU can withstand electromagnetic interference (EMI) from external sources without malfunctioning or failing.
@@ -30,7 +30,7 @@ In summary, EMS testing evaluates ECU performance in the presence of electromagn
 
 # Chat GPT prompt:
 
-## As an expert explain how to perform EMS and Irradiation testing for automotive ECUs
+> As an expert explain how to perform EMS and Irradiation testing for automotive ECUs
 
 # Chat GPT Answer:
 
@@ -94,7 +94,7 @@ By following these structured procedures for EMS and irradiation testing, automo
 
 # Chat GPT Prompt
 
-As an expert explain what the difference between proximity irradiation and normal irradiation is
+> As an expert explain what the difference between proximity irradiation and normal irradiation is
 
 ## Chat GPT Answer
 
