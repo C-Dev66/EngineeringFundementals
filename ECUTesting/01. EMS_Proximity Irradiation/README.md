@@ -1,10 +1,10 @@
-#Chat GPT Promt:
+# Chat GPT Promt:
 
-##As an expert explain the differnces between EMS testing and Irradiation testing for automotive ECU's
+## As an expert explain the differnces between EMS testing and Irradiation testing for automotive ECU's
 
-#Chat GPT Asnwer:
+# Chat GPT Asnwer:
 
-##EMS testing and irradiation testing are both essential for evaluating the electromagnetic compatibility (EMC) of automotive Electronic Control Units (ECUs), but they serve different purposes and involve distinct methodologies:
+## EMS testing and irradiation testing are both essential for evaluating the electromagnetic compatibility (EMC) of automotive Electronic Control Units (ECUs), but they serve different purposes and involve distinct methodologies:
 
 1. **EMS Testing (Electromagnetic Susceptibility Testing)**:
    - **Purpose**: EMS testing assesses how well an ECU can withstand electromagnetic interference (EMI) from external sources without malfunctioning or failing.
@@ -28,11 +28,11 @@
 
 In summary, EMS testing evaluates ECU performance in the presence of electromagnetic interference from everyday sources, while irradiation testing assesses resilience to ionizing radiation. Both are critical for ensuring the EMC of automotive ECUs in diverse operational environments and complying with industry standards and regulatory requirements.
 
-#Chat GPT prompt:
+# Chat GPT prompt:
 
-##As an expert explain how to perform EMS and Irradiation testing for automotive ECUs
+## As an expert explain how to perform EMS and Irradiation testing for automotive ECUs
 
-#Chat GPT Answer:
+# Chat GPT Answer:
 
 Performing EMS (Electromagnetic Susceptibility) and irradiation testing for automotive Electronic Control Units (ECUs) involves following standardized procedures and ensuring compliance with regulatory requirements. Here’s a detailed outline on how to conduct each type of testing:
 
@@ -92,11 +92,11 @@ Performing EMS (Electromagnetic Susceptibility) and irradiation testing for auto
 
 By following these structured procedures for EMS and irradiation testing, automotive manufacturers and suppliers can ensure that ECUs meet stringent EMC requirements, enhancing overall vehicle reliability and safety in diverse operational environments.
 
-#Chat GPT Prompt
+# Chat GPT Prompt
 
 As an expert explain what the difference between proximity irradiation and normal irradiation is
 
-##Chat GPT Answer
+## Chat GPT Answer
 
 The difference between proximity irradiation and normal irradiation lies primarily in how the radiation is applied to the device or object being tested, particularly in the context of EMC (Electromagnetic Compatibility) testing for electronic components like automotive ECUs.
 
